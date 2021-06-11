@@ -8,4 +8,32 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "albums": [
+  {
+    "albumId": 1,
+    "title": "Montains",
+    "url": "https://via.placeholder.com/600/92c952"
+  },
+  {
+    "albumId": 2,
+    "title": "Animals",
+    "url": "https://via.placeholder.com/600/f66b97"
+  },
+  {
+    "albumId": 3,
+    "title": "Trees",
+    "url": "https://via.placeholder.com/600/56a8c2"
+  },
+  {
+    "albumId": 4,
+    "title": "Birds",
+    "url": "https://via.placeholder.com/600/b0f7cc"
+  },
+  {
+    "albumId": 5,
+    "title": "Cities",
+    "url": "https://via.placeholder.com/600/54176f"
+  }
+]
 }
