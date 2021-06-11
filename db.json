@@ -3,52 +3,52 @@
   {
     "albumId": 1,
     "title": "Montains",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/1.jpg"
 
   },
   {
     "albumId": 2,
     "title": "Animals",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/2.jpg"
 
   },
   {
     "albumId": 3,
     "title": "Trees",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/4.jpg"
   },
   {
     "albumId": 4,
     "title": "Birds",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/3.jpg"
 
   },
   {
     "albumId": 5,
     "title": "Cities",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/5.jpg"
   }
 ],
    "photos": [
   {
     "title": "title 1",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/1.jpg"
   },
   {
     "title": "title 2",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/2.jpg"
   },
   {
     "title": "title 3",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/3.jpg"
   },
   {
     "title": "title 4",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/4.jpg"
   },
   {
     "title": "title 5",
-    "url": "https://avalanchegr.com/wp-content/uploads/2020/10/Tree-with-large-branches-1024x620.jpeg"
+    "url": "https://www.gstatic.com/webp/gallery/5.jpg"
   }
 ]
 }
