@@ -1,7 +1,5 @@
 {
-  "albums":
-  { "totalAlbums": 5,
-    "list": [
+  "albums": [
   {
     "albumId": 1,
     "title": "Montains",
@@ -30,7 +28,7 @@
     "title": "Cities",
     "url": "https://www.gstatic.com/webp/gallery/5.jpg"
   }
-]},
+],
    "photos": [
   {
     "title": "title 1",
